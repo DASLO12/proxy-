@@ -1,3 +1,6 @@
+profile:
+  name: GOOGLE-PLAY
+
 mixed-port: 7890
 allow-lan: false
 mode: rule
